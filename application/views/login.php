@@ -1,5 +1,5 @@
 <section class="style-default-bright">
-	<div class="container">s
+	<div class="container">
 		<h2 class="text-light text-center">Application for all your needs<br/><small class="text-primary">Whose Side Are You On?</small></h2>
 		<br/>
 
