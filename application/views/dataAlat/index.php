@@ -27,7 +27,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -53,7 +53,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -79,7 +79,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -108,7 +108,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -135,7 +135,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -161,7 +161,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat/tkj" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -190,7 +190,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -217,7 +217,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>
@@ -243,7 +243,7 @@
 								</tbody>
 							</table>
 							<div class="text-right">
-								<button type="button" class="btn btn-primary"><i class="fa fa-eye"></i> Detil</button>
+								<a href="dataAlat/tkj" class="btn btn-icon-toggle"><i class="fa fa-eye"></i></a>
 							</div>
 						</div>
 					</div>

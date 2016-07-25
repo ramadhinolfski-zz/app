@@ -96,7 +96,7 @@
 					<a href="javascript:void(0);" class="dropdown-toggle ink-reaction" data-toggle="dropdown">
 						<img src="<?php echo base_url(); ?>/theme/img/avatar1.jpg?1403934956" alt="" />
 						<span class="profile-info">
-							Daniel Johnson
+							Ramadhan
 							<small>Administrator</small>
 						</span>
 					</a>
